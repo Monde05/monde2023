@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\monde2023\bin\Debug\net6.0\monde2023.exe
+C:\Users\Admin\source\repos\monde2023\bin\Debug\net6.0\monde2023.deps.json
+C:\Users\Admin\source\repos\monde2023\bin\Debug\net6.0\monde2023.runtimeconfig.json
+C:\Users\Admin\source\repos\monde2023\bin\Debug\net6.0\monde2023.dll
+C:\Users\Admin\source\repos\monde2023\bin\Debug\net6.0\monde2023.pdb
+C:\Users\Admin\source\repos\monde2023\obj\Debug\net6.0\monde2023.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\monde2023\obj\Debug\net6.0\monde2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\monde2023\obj\Debug\net6.0\monde2023.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\monde2023\obj\Debug\net6.0\monde2023.AssemblyInfo.cs
+C:\Users\Admin\source\repos\monde2023\obj\Debug\net6.0\monde2023.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\monde2023\obj\Debug\net6.0\monde2023.dll
+C:\Users\Admin\source\repos\monde2023\obj\Debug\net6.0\refint\monde2023.dll
+C:\Users\Admin\source\repos\monde2023\obj\Debug\net6.0\monde2023.pdb
+C:\Users\Admin\source\repos\monde2023\obj\Debug\net6.0\monde2023.genruntimeconfig.cache
+C:\Users\Admin\source\repos\monde2023\obj\Debug\net6.0\ref\monde2023.dll
